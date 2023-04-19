@@ -1,0 +1,13 @@
+#\u5B58\u76D8\u7528\u6237\u6570\u636E
+#Sat Jun 26 11:08:49 CST 2021
+nick=ch2
+level=1
+money=200
+userModText=
+exp=8
+backgroundpic=1.png
+pic=10-1.gif
+userName=ch2
+notice=
+pass=111111
+userID=ch2
